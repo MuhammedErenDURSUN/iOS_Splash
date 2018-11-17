@@ -1,9 +1,9 @@
-# Android Kullanıcı Kontrolü | Node.js API - MongoDB | Welcome | Login | Signup
+# iOS Kullanıcı Kontrolü | Node.js API - MongoDB | Welcome | Login | Signup
 
 [![N|Solid](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png)](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png)
 
 
-### Android Kullanıcı Kontrolü nedir?
+### iOS Kullanıcı Kontrolü nedir?
   
   Birçok uygulamada aslında kullanmaya alışık olduğumuz, kullanıcının uygulamaya giriş yapmasını, kayıt olmasını, uygulamayala ilk karşılaşmasını sağlayan bir kütüphane geliştirdim. Kütüphane Node.js ile geliştirmiş olduğum Api'ler ile kullanılmaktadır. Veritabanı olarak MongoDB ve MySQL kullanılmıştır. İstediğiniz şekilde özelleştirebilirsiniz.
 
@@ -20,9 +20,6 @@
   - Uygulamayı kullanıcı tekrar açtığında yeni cihazda oturum açtı ise önceki cihazda oturumun kapatılması.
   - Uygulamada kullanıcının oturumu kapatabilmesi.
   
-### Uygulama
-
-  - [![Watch the video](images/googleplay.png)](app/app-debug.apk)
 
 ### Galeri
 
